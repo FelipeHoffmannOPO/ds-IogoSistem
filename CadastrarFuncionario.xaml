@@ -14,7 +14,7 @@
         TextOptions.TextRenderingMode="Auto"        
         Background="{DynamicResource MaterialDesignPaper}"
         FontFamily="{DynamicResource MaterialDesignFont}"
-        Title="Cadastrar Funcionario" Height="650" Width="800" BorderThickness="0" ForceCursor="True" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="Cadastrar Funcionario" Height="620" Width="800"  ForceCursor="True" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid Background="#d3ecff" >
         <Grid.RowDefinitions>
             <RowDefinition Height="56"/>
